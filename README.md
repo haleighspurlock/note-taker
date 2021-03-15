@@ -10,11 +10,15 @@
 
 ## Description
 ---
-Edit description
+Utilizing starter code, I was able to create an application called Note Taker that could be used to write and save notes. The application uses Express.js to save and retrieve note. The front end was already created, so I was able to build the back end, connect the two, and deploy the application to Heroku.
 
 Deployed Website: 
 
-![Note Taker](*****Include Screenshot here******)
+![Note Taker](/public/assets/css/homepage.png)
+
+![Note Taker](/public/assets/css/onenote.png)
+
+![Note Taker](/public/assets/css/multiplenotes.png)
 
 ## Requirements 
 ---
