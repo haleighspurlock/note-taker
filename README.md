@@ -42,7 +42,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ---
 No installation needed for this project
 
-See deployed site here: https://haleighspurlock.github.io/note-taker
+See deployed site here: https://guarded-lowlands-61863.herokuapp.com/
 
 See repository here: https://github.com/haleighspurlock/note-taker
 ## Contributing
